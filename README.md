@@ -24,7 +24,7 @@ At [Chloi Inc.](htto://chloi.io), we work with preprocessors pretty frequently. 
 </td>
 <td>
 <img alt="The Markdown logo in black." src="https://rawgit.com/chloi/preprocessor-logos/master/markdown/markdown.svg" width="364px" /><br/>
-<em>The Markdown logo. This is a optimised SVG from [Dustin Curtis’ Markdown marks](https://github.com/dcurtis/markdown-mark), where more configurations are available.</em>
+<em>The Markdown logo. This is a optimised SVG from <a href="https://github.com/dcurtis/markdown-mark">Dustin Curtis’ Markdown marks</a>, where more configurations are available.</em>
 </td>
 </tr>
 <tr>
