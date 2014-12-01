@@ -34,7 +34,7 @@ At [Chloi Inc.](htto://chloi.io), we work with preprocessors pretty frequently. 
 </td>
 <td>
 <img alt="The LESS logo in black." src="https://rawgit.com/chloi/preprocessor-logos/master/less/less.svg" width="364px" /><br/>
-<em>The <a href="https://github.com/less/less.js">LESS</a> logo. This is a reproduction since as is no official one-colour version of the LESS logo.</em>
+<em>The <a href="https://github.com/less/less.js">LESS</a> logo. This is a reproduction as is no official, one-colour version of the LESS logo.</em>
 </td>
 </tr>
 </table>
