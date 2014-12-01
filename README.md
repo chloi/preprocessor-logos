@@ -2,7 +2,7 @@
 
 A collection of single-colour, vector preprocessor logos, a la [Browser Logos](https://github.com/alrra/browser-logos).
 
-At [Chloi Inc.](htto://chloi.io), we work with preprocessors pretty frequently. We even built a static web server with some of the best preprocessors build in: [it’s called Harp](http://github.com/sintaxi/harp). This repo contains the logos we collected and recreated for [the Harp website](http://harpjs.com). We hope it’s helpful.
+At [Chloi Inc.](http://chloi.io), we work with preprocessors pretty frequently. We even built a static web server with some of the best preprocessors build in: [it’s called Harp](http://github.com/sintaxi/harp). This repo contains the logos we collected and recreated for [the Harp website](http://harpjs.com). We hope it’s helpful.
 
 ## Logos
 
