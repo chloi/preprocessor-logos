@@ -1,0 +1,6 @@
+.gitattributes
+.npmignore
+CHANGELOG.md
+CONTRIBUTING.md
+bin
+bower.json

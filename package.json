@@ -1,0 +1,16 @@
+{
+  "name": "preprocessor-logos",
+  "description": "A collection of single-colour, vector preprocessor logos",
+  "version": "0.0.0",
+  "homepage": "https://github.com/chloi/preprocessor-logos#readme",
+  "repository": "git@github.com:chloi/preprocessor-logos.git",
+  "private": true,
+  "author": {
+    "name": "Kenneth Ormandy <kenneth@chloi.io>"
+  },
+  "contributors": {
+    "name": "Kenneth Ormandy <kenneth@chloi.io>",
+    "name": "Brock Whitten   <brock@chloi.io>",
+    "name": "Rob Ellis       <rob@chloi.io>"
+  }
+}
