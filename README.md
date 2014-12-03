@@ -62,7 +62,7 @@ Looking to contribute? That’s awesome! Here’s some extensions to the project
 - Autoprefixer logo (yeah, it’s technically a _post-processor_, but whatever)
 - Colour and knockout (white on a transparent background) vector versions of each logo
 - The addition of your favourite absent preprocessor, as long as it’s being actively used by the community and the logo is in the same format as the others
-- Any SVG cleanup other than minifying (it might be possible to optimised the viewboxes, for example)
+- Any SVG cleanup (other than minifying)
 
 Thanks for considering contributing, and feel free to [open an issue](https://github.com/chloi/preprocessor-logos) if you have any questions.
 
