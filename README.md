@@ -41,10 +41,18 @@ At [Chloi Inc.](http://chloi.io), we work with preprocessors pretty frequently. 
 
 ## Getting started
 
-[Download a zip file of all the logos](https://github.com/chloi/preprocessor-logos/archive/master.zip), or include it as a dependency with npm:
+[Download a zip file of all the logos](https://github.com/chloi/preprocessor-logos/archive/master.zip), or include it as a dependency with your preferred package manager:
+
+__With npm__
 
 ```sh
 npm install --save-dev chloi/preprocessor-logos
+```
+
+__With Bower__
+
+```sh
+bower install --save-dev preprocessor-logos
 ```
 
 ### Contributing

@@ -1,0 +1,28 @@
+{
+  "name": "preprocessor-logos",
+  "version": "0.1.0",
+  "homepage": "https://github.com/chloi/preprocessor-logos",
+  "description": "A collection of single-colour, vector preprocessor logos.",
+  "authors": [
+    "Kenneth Ormandy <kenneth@chloi.io>"
+  ],
+  "keywords": [
+    "sass",
+    "less",
+    "stylus",
+    "coffeescript",
+    "markdown",
+    "jade",
+    "logo",
+    "vector",
+    "svg"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
