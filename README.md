@@ -34,7 +34,7 @@ At [Chloi Inc.](http://chloi.io), we work with preprocessors pretty frequently. 
 </td>
 <td>
 <img alt="The LESS logo in black." src="https://rawgit.com/chloi/preprocessor-logos/master/less/less.svg" width="364px" /><br/>
-<em>The <a href="https://github.com/less/less.js">LESS</a> logo. This is a reproduction as is no official, one-colour version of the LESS logo.</em>
+<em>The <a href="https://github.com/less/less.js">LESS</a> logo. This is a reproduction as is no official, one-colour version is available.</em>
 </td>
 </tr>
 </table>
@@ -62,6 +62,6 @@ Thanks for considering contributing, and feel free to [open an issue](https://gi
 
 All logos and trademarks are the property of their respective owners. The license and trademark behind any re-created vector logos are also property of their respective owners.
 
-If you represent the entity that has the rights over a logo and you want, for whatever reason, that logo removed from this project, [open an issue](https://github.com/chloi.io/preprocessor-logos/issues) requesting its takedown and we will remove it as soon as possible.
+If you represent the entity that has the rights over a logo and you want, for whatever reason, that logo removed from this project, [open an issue](https://github.com/chloi/preprocessor-logos/issues) requesting its takedown and we will remove it as soon as possible.
 
 The SVG code for recreated logos is Copyright © 2013–2014 [Chloi Inc.](http://chloi.io) Available under The MIT License (MIT).
