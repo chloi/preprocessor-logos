@@ -1,7 +1,7 @@
 {
   "name": "preprocessor-logos",
-  "version": "0.1.0",
   "description": "A collection of single-colour, vector preprocessor logos.",
+  "version": "0.1.1",
   "homepage": "https://github.com/chloi/preprocessor-logos#readme",
   "repository": "git@github.com:chloi/preprocessor-logos.git",
   "private": true,
