@@ -24,5 +24,6 @@
     "app/bower_components",
     "test",
     "tests"
+    "assets"
   ]
 }

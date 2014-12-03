@@ -1,3 +1,7 @@
+![A repeating pattern of preprocessor logos](examples/preview.svg)
+
+***
+
 ## Preprocessor Logos
 
 A collection of single-colour, vector preprocessor logos, a la [Browser Logos](https://github.com/alrra/browser-logos).
