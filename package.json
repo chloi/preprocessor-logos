@@ -12,5 +12,8 @@
     "name": "Kenneth Ormandy <kenneth@chloi.io>",
     "name": "Brock Whitten   <brock@chloi.io>",
     "name": "Rob Ellis       <rob@chloi.io>"
+  },
+  "scripts": {
+    "test": "open test/index.html"
   }
 }
