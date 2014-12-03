@@ -1,4 +1,4 @@
-![A repeating pattern of preprocessor logos](examples/preview.svg)
+![A repeating pattern of preprocessor logos](assets/preview.svg)
 
 ***
 
