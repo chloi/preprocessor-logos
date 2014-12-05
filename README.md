@@ -10,7 +10,7 @@ At [Chloi Inc.](http://chloi.io), we work with preprocessors pretty frequently. 
 <tr>
 <td>
 <img alt="The CoffeeScript logo in black." src="https://rawgit.com/chloi/preprocessor-logos/master/coffeescript/coffeescript.svg" width="364px" /><br/>
-<em>The <a href="https://github.com/jashkenas/coffeescript">CoffeeScript</a> logo. No vector was available, so this is a recreation.</em>
+<em>The <a href="https://github.com/jashkenas/coffeescript">CoffeeScript</a> logo.</em>
 </td>
 <td>
 <img alt="The Jade logo in black." src="https://rawgit.com/chloi/preprocessor-logos/master/jade/jade.svg" width="364px" /><br/>
