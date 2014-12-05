@@ -11,7 +11,8 @@
   "contributors": {
     "name": "Kenneth Ormandy <kenneth@chloi.io>",
     "name": "Brock Whitten   <brock@chloi.io>",
-    "name": "Rob Ellis       <rob@chloi.io>"
+    "name": "Rob Ellis       <rob@chloi.io>",
+    "name": "Pedro Maltez"
   },
   "scripts": {
     "test": "open test/index.html"
