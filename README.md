@@ -9,31 +9,31 @@ At [Chloi Inc.](http://chloi.io), we work with preprocessors pretty frequently. 
 <table>
 <tr>
 <td>
-<img alt="The CoffeeScript logo in black." src="https://rawgit.com/chloi/preprocessor-logos/master/coffeescript/coffeescript.svg" width="364px" /><br/>
+<img alt="The CoffeeScript logo in black." src="https://cdn.rawgit.com/chloi/preprocessor-logos/master/coffeescript/coffeescript.svg" width="364px" /><br/>
 <em>The <a href="https://github.com/jashkenas/coffeescript">CoffeeScript</a> logo.</em>
 </td>
 <td>
-<img alt="The Jade logo in black." src="https://rawgit.com/chloi/preprocessor-logos/master/jade/jade.svg" width="364px" /><br/>
+<img alt="The Jade logo in black." src="https://cdn.rawgit.com/chloi/preprocessor-logos/master/jade/jade.svg" width="364px" /><br/>
 <em>The <a href="https://github.com/jadejs/jade">Jade</a> logo. No vector was available, so this is a recreation.</em>
 </td>
 </tr>
 <tr>
 <td>
-<img alt="The Stylus logo in black." src="https://rawgit.com/chloi/preprocessor-logos/master/stylus/stylus.svg" width="364px" /><br/>
+<img alt="The Stylus logo in black." src="https://cdn.rawgit.com/chloi/preprocessor-logos/master/stylus/stylus.svg" width="364px" /><br/>
 <em>The <a href="https://github.com/learnboost/stylus">Stylus</a> logo.</em>
 </td>
 <td>
-<img alt="The Markdown logo in black." src="https://rawgit.com/chloi/preprocessor-logos/master/markdown/markdown.svg" width="364px" /><br/>
+<img alt="The Markdown logo in black." src="https://cdn.rawgit.com/chloi/preprocessor-logos/master/markdown/markdown.svg" width="364px" /><br/>
 <em>The Markdown logo. This is a optimised SVG from <a href="https://github.com/dcurtis/markdown-mark">Dustin Curtis’ Markdown marks</a>, where more configurations are available.</em>
 </td>
 </tr>
 <tr>
 <td>
-<img alt="The Sass logo in black." src="https://rawgit.com/chloi/preprocessor-logos/master/sass/sass.svg" width="364px" /><br/>
+<img alt="The Sass logo in black." src="https://cdn.rawgit.com/chloi/preprocessor-logos/master/sass/sass.svg" width="364px" /><br/>
 <em>The <a href="https://github.com/sass/libsass">Sass</a> logo. The Sass team’s kindly makes using their logo easy. Additional CC licenced configurations are <a href="http://sass-lang.com/styleguide/brand/">available in the Sass brand guidelines</a>.</em>
 </td>
 <td>
-<img alt="The LESS logo in black." src="https://rawgit.com/chloi/preprocessor-logos/master/less/less.svg" width="364px" /><br/>
+<img alt="The LESS logo in black." src="https://cdn.rawgit.com/chloi/preprocessor-logos/master/less/less.svg" width="364px" /><br/>
 <em>The <a href="https://github.com/less/less.js">LESS</a> logo. This is a reproduction as is no official, one-colour version is available.</em>
 </td>
 </tr>
