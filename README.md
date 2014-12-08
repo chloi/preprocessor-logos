@@ -59,10 +59,10 @@ bower install --save-dev preprocessor-logos
 
 Looking to contribute? That’s awesome! Here’s some extensions to the project we would happily accept help with:
 
-- Autoprefixer logo (yeah, it’s technically a _post-processor_, but whatever)
-- Colour and knockout (white on a transparent background) vector versions of each logo
+- ~~Autoprefixer logo (yeah, it’s technically a _post-processor_, but whatever)~~ In progress in #2
+- Finding a full colour, vector version of the LESS logo
 - The addition of your favourite absent preprocessor, as long as it’s being actively used by the community and the logo is in the same format as the others
-- Any SVG cleanup (other than minifying)
+- Any SVG-related cleanup or advice
 
 Thanks for considering contributing, and feel free to [open an issue](https://github.com/chloi/preprocessor-logos) if you have any questions.
 
