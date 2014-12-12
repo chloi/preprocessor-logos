@@ -2,7 +2,7 @@
 
 A collection of single-colour, vector preprocessor logos, a la [Browser Logos](https://github.com/alrra/browser-logos).
 
-At [Chloi Inc.](http://chloi.io), we work with preprocessors pretty frequently. We even built a static web server with some of the best preprocessors build in: [it’s called Harp](http://github.com/sintaxi/harp). This repo contains the logos we collected and recreated for [the Harp website](http://harpjs.com). We hope it’s helpful.
+At [Chloi Inc.](http://chloi.io), we work with preprocessors pretty frequently. We even built a static web server with some of the best preprocessors build in: [it’s called Harp](http://github.com/sintaxi/harp). This repo contains the logos we collected along the way and more, with the help of some awesome [contributors](https://github.com/chloi/preprocessor-logos/graphs/contributors). We hope it’s helpful.
 
 ## Logos
 
@@ -37,6 +37,12 @@ At [Chloi Inc.](http://chloi.io), we work with preprocessors pretty frequently. 
 <em>The <a href="https://github.com/less/less.js">LESS</a> logo. This is a reproduction as is no official, one-colour version is available.</em>
 </td>
 </tr>
+<tr>
+<td>
+<img alt="The Autoprefixer logo in black." src="https://cdn.rawgit.com/chloi/preprocessor-logos/master/autoprefixer/autoprefixer.svg" width="364px" /><br/>
+<em>The <a href="https://github.com/postcss/autoprefixer">Autoprefixer</a> logo. It’s technically a <em>post-processor</em>, but let’s not get too picky.</em>
+</td>
+</tr>
 </table>
 
 ## Getting started
@@ -59,7 +65,6 @@ bower install --save-dev preprocessor-logos
 
 Looking to contribute? That’s awesome! Here’s some extensions to the project we would happily accept help with:
 
-- ~~Autoprefixer logo (yeah, it’s technically a _post-processor_, but whatever)~~ In progress in #2
 - Finding a full colour, vector version of the LESS logo
 - The addition of your favourite absent preprocessor, as long as it’s being actively used by the community and the logo is in the same format as the others
 - Any SVG-related cleanup or advice
