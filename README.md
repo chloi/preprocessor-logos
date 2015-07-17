@@ -2,7 +2,7 @@
 
 A collection of single-colour, vector preprocessor logos, a la [Browser Logos](https://github.com/alrra/browser-logos).
 
-At [Chloi Inc.](http://chloi.io), we work with preprocessors pretty frequently. We even built a static web server with some of the best preprocessors build in: [it’s called Harp](http://github.com/sintaxi/harp). This repo contains the logos we collected along the way and more, with the help of some awesome [contributors](https://github.com/chloi/preprocessor-logos/graphs/contributors). We hope it’s helpful.
+At [Chloi Inc.](http://chloi.io), we work with preprocessors pretty frequently. We even built a static web server with some of the best preprocessors build in: [it’s called Harp](http://github.com/sintaxi/harp). This repo contains the logos we collected along the way and more, with the help of some awesome [contributors](https://github.com/chloi/preprocessor-logos/graphs/contributors). We hope it’s useful.
 
 ## Logos
 
@@ -81,4 +81,4 @@ All logos and trademarks are the property of their respective owners. The licens
 
 If you represent the entity that has the rights over a logo and you want, for whatever reason, that logo removed from this project, [open an issue](https://github.com/chloi/preprocessor-logos/issues) requesting its takedown and we will remove it as soon as possible.
 
-The SVG code for recreated logos is Copyright © 2013–2014 [Chloi Inc.](http://chloi.io) Available under The MIT License (MIT).
+The SVG code for recreated logos is Copyright © 2013–2015 [Chloi Inc.](http://chloi.io) Available under The MIT License (MIT).
