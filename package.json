@@ -8,12 +8,12 @@
   "author": {
     "name": "Kenneth Ormandy <kenneth@chloi.io>"
   },
-  "contributors": {
-    "name": "Kenneth Ormandy <kenneth@chloi.io>",
-    "name": "Brock Whitten   <brock@chloi.io>",
-    "name": "Rob Ellis       <rob@chloi.io>",
-    "name": "Pedro Maltez"
-  },
+  "contributors": [
+    "Kenneth Ormandy <kenneth@chloi.io>",
+    "Brock Whitten   <brock@chloi.io>",
+    "Rob Ellis       <rob@chloi.io>",
+    "Pedro Maltez"
+  ],
   "scripts": {
     "test": "open test/index.html",
     "optimize": "svgo -f ./haml --pretty -p 2"
