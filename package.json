@@ -15,6 +15,10 @@
     "name": "Pedro Maltez"
   },
   "scripts": {
-    "test": "open test/index.html"
+    "test": "open test/index.html",
+    "optimize": "svgo -f ./haml --pretty -p 2"
+  },
+  "devDependencies": {
+    "svgo": "0.5.3"
   }
 }
