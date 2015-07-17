@@ -9,10 +9,11 @@
     "name": "Kenneth Ormandy <kenneth@chloi.io>"
   },
   "contributors": [
-    "Kenneth Ormandy <kenneth@chloi.io>",
-    "Brock Whitten   <brock@chloi.io>",
-    "Rob Ellis       <rob@chloi.io>",
-    "Pedro Maltez"
+    "Kenneth Ormandy   <kenneth@chloi.io>",
+    "Brock Whitten     <brock@chloi.io>",
+    "Rob Ellis         <rob@chloi.io>",
+    "Pedro Maltez",
+    "Garth Braithwaite <garthdb@gmail.com>"
   ],
   "scripts": {
     "test": "open test/index.html",
