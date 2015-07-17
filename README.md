@@ -42,6 +42,10 @@ At [Chloi Inc.](http://chloi.io), we work with preprocessors pretty frequently. 
 <img alt="The Autoprefixer logo in black." src="https://cdn.rawgit.com/chloi/preprocessor-logos/master/autoprefixer/autoprefixer.svg" width="364px" /><br/>
 <em>The <a href="https://github.com/postcss/autoprefixer">Autoprefixer</a> logo. It’s technically a <em>post-processor</em>, but let’s not get too picky.</em>
 </td>
+<td>
+<img alt="The Haml logo." src="https://cdn.rawgit.com/chloi/preprocessor-logos/master/haml/haml.svg" width="364px" /><br/>
+<em>The <a href="https://github.com/haml/haml">Haml</a> logo.</em>
+</td>
 </tr>
 </table>
 
