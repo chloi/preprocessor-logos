@@ -13,7 +13,7 @@ At [Chloi Inc.](http://chloi.io), we work with preprocessors pretty frequently. 
 <em>The <a href="https://github.com/jashkenas/coffeescript">CoffeeScript</a> logo.</em>
 </td>
 <td>
-<img alt="The Jade logo in black." src="https://cdn.rawgit.com/chloi/preprocessor-logos/master/jade/jade.svg" width="364px" /><br/>
+<img alt="The Jade logo in black." src="https://rawgit.com/chloi/preprocessor-logos/master/jade/jade.svg" width="364px" /><br/>
 <em>The <a href="https://github.com/jadejs/jade">Jade</a> logo.</em>
 </td>
 </tr>
