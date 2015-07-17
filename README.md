@@ -30,7 +30,7 @@ At [Chloi Inc.](http://chloi.io), we work with preprocessors pretty frequently. 
 <tr>
 <td>
 <img alt="The Sass logo in black." src="https://cdn.rawgit.com/chloi/preprocessor-logos/master/sass/sass.svg" width="364px" /><br/>
-<em>The <a href="https://github.com/sass/libsass">Sass</a> logo. The Sass team’s kindly makes using their logo easy. Additional CC licenced configurations are <a href="http://sass-lang.com/styleguide/brand/">available in the Sass brand guidelines</a>.</em>
+<em>The <a href="https://github.com/sass/libsass">Sass</a> logo. The Sass team kindly makes using their logo easy. Additional CC licenced configurations are <a href="http://sass-lang.com/styleguide/brand/">available in the Sass brand guidelines</a>.</em>
 </td>
 <td>
 <img alt="The LESS logo in black." src="https://cdn.rawgit.com/chloi/preprocessor-logos/master/less/less.svg" width="364px" /><br/>
